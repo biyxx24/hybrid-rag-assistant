@@ -1,0 +1,22 @@
+[
+  {"question": "How long do I have to request a refund?", "expected_sources": ["refund_policy.md"]},
+  {"question": "Can I get my money back for a song I already listened to?", "expected_sources": ["refund_policy.md"]},
+  {"question": "I bought the same track twice by accident. What happens?", "expected_sources": ["refund_policy.md"]},
+  {"question": "When does a card refund show up on my statement?", "expected_sources": ["refund_policy.md"]},
+  {"question": "What does Chinook Plus cost per month?", "expected_sources": ["membership_program.md"]},
+  {"question": "Is there a student discount?", "expected_sources": ["membership_program.md"]},
+  {"question": "Who gets the Studio tier for free?", "expected_sources": ["membership_program.md"]},
+  {"question": "Can I download lossless audio?", "expected_sources": ["membership_program.md", "pricing_and_formats.md"]},
+  {"question": "How much does a music video cost?", "expected_sources": ["pricing_and_formats.md"]},
+  {"question": "Is it cheaper to buy a whole album?", "expected_sources": ["pricing_and_formats.md"]},
+  {"question": "What bitrate are the MP3 files?", "expected_sources": ["pricing_and_formats.md"]},
+  {"question": "When is customer support open?", "expected_sources": ["support_and_contact.md"]},
+  {"question": "How do I find out who my support agent is?", "expected_sources": ["support_and_contact.md"]},
+  {"question": "What if my problem is not solved by my agent?", "expected_sources": ["support_and_contact.md"]},
+  {"question": "Which payment methods are accepted?", "expected_sources": ["payment_and_billing.md"]},
+  {"question": "Are prices in euros or dollars?", "expected_sources": ["payment_and_billing.md"]},
+  {"question": "Can I withdraw my store balance as cash?", "expected_sources": ["payment_and_billing.md"]},
+  {"question": "Where is the company headquartered?", "expected_sources": ["about_chinook_records.md"]},
+  {"question": "When was Chinook Records founded?", "expected_sources": ["about_chinook_records.md"]},
+  {"question": "How many countries do you sell to?", "expected_sources": ["about_chinook_records.md"]}
+]

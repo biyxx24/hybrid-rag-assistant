@@ -1,0 +1,19 @@
+# Same major versions as the INFO 5940 course environment, so the project runs unchanged in
+# a course Codespace. LangChain is held at 0.2.x; langchain-openai 0.1.x needs openai < 2.
+openai>=1.50,<2
+tiktoken>=0.7,<1
+langchain>=0.2.17,<0.3
+langchain-core>=0.2.43,<0.3
+langchain-community>=0.2.19,<0.3
+langchain-openai>=0.1.25,<0.2
+langchain-text-splitters>=0.2.4,<0.3
+langchain-chroma==0.1.4
+chromadb==0.5.23
+posthog<6  # chromadb 0.5 uses the older posthog capture() signature
+numpy<2
+pyarrow>=17,<22  # pyarrow 22+ requires NumPy 2
+pandas>=2.1
+sqlalchemy>=2.0
+streamlit>=1.37
+python-dotenv>=1.0
+pytest>=7
